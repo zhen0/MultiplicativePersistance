@@ -14,5 +14,6 @@
   },
   "devDependencies": {
     "chai": "^4.2.0"
+    "js-yaml": ">=3.13.1"
   }
 }
